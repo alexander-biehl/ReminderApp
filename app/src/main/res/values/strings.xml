@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Reminder App</string>
+    <string name="long_dummy_string">long dummy string</string>
 </resources>
